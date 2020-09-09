@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alan-mauro-franco)](https://www.linkedin.com/in/alan-mauro-franco/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aln_maurofranco)](https://twitter.com/aln_maurofranco)
 
-##### **"O mediador entre a cabeça e as mãos deve ser sempre o coração" (LANG, 1927)**
+##### *"O mediador entre a cabeça e as mãos deve ser sempre o coração" (LANG, 1927)*
 
 - 📚 Eu sou estudante de Análise e Desenvolvimento de Sistema na FATEC Ipiranga - Faculdade de Tecnologia do Ipiranga.
 - 👨🏼‍💻 Estou em busca de novos desafios que me levem a oportunidades de trabalho
