@@ -30,4 +30,9 @@
 
 <img align="left" alt="Alanmaurofranco Github stats" src="https://github-readme-stats.vercel.app/api?username=alnmaurofranco&theme=dracula&show_icons=true&hide_border=true" />
 
+<br>
+### Spotify now Playing 🎧
+
+[<img src="https://novatorem-theta-inky.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/namiisgod)
+
 [website]: https://alnmaurofranco.github.io/
