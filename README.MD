@@ -27,7 +27,6 @@
 <img align="left" alt="GIT" width="22px" style="margin-left: 10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="TERMINAL" width="22px" style="margin-left: 10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-
 <img align="left" alt="Alanmaurofranco Github stats" src="https://github-readme-stats.vercel.app/api?username=alnmaurofranco&theme=dracula&show_icons=true&hide_border=true" />
 
 [website]: https://alnmaurofranco.github.io/
