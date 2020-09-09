@@ -33,6 +33,6 @@
 <br>
 ### Spotify now Playing 🎧
 
-[<img src="https://novatorem-theta-inky.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/namiisgod)
+[<img src="https://novatorem-theta-inky.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/namiisgod)
 
 [website]: https://alnmaurofranco.github.io/
