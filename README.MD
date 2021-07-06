@@ -35,7 +35,6 @@
 
 <br/>  
 <br/>
-<br/><br/><br/>  
 
 <img alt="Alanmaurofranco Github stats" src="https://github-readme-stats.vercel.app/api?username=alnmaurofranco&theme=dracula&show_icons=true&hide_border=true" />
 
