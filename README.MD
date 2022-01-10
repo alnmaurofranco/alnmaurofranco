@@ -1,4 +1,4 @@
-<h1 align="center" style="font-weight: bold;">Oi, eu sou Alan 👋</h1>
+<h1 align="center" style="font-weight: bold;">🇧🇷 Oi, eu sou Alan - 🇺🇸 Hi, I'm Alan 👋</h1>
 
 <p align="center">
 <a href="https://github.com/alnmaurofranco">
@@ -13,17 +13,17 @@
 <a href="https://www.instagram.com/aln_maurofranco/">
 <img src="https://img.shields.io/badge/ALN__MAUROFRANCO-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="www.twitch.tv/allanhps">
+<a href="https://www.twitch.tv/allanhps">
 <img src="https://img.shields.io/badge/ALLANHPS-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
 </a>
 </p>
 
-<h3 align="center" style="font-style: italic;">"O mediador entre a cabeça e as mãos deve ser sempre o coração" (LANG, 1927)</h3>
-
+<h3 align="center" style="font-style: italic;">"Se a nossa matéria-prima é o conhecimento, nós não podemos parar de aprender."</h3>
 
 - 📚 Eu sou estudante de Análise e Desenvolvimento de Sistema na FATEC Ipiranga - Faculdade de Tecnologia do Ipiranga.
-- 👨🏼‍💻 Estou em busca de novos desafios que me levem a oportunidades de trabalho
-- 💻 [Website] Trabalhando em uma nova versão
+- 👨🏼‍💻 Estou em busca de novos desafios que me levem a oportunidades de trabalho.
+- 📝 Atualmente estou estudando e praticando: **[NestJS](https://docs.nestjs.com/), [Prisma ORM](https://www.prisma.io/) e Microserviços**
+- 💻 [Website] Em breve uma nova versão do meu portfolio.
 
 ## 🛠️ Linguagens e Ferramentas
 
@@ -37,6 +37,7 @@
 ![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Tailwind Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![VS Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -44,11 +45,10 @@
 ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Insomnia Badge](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
 ![Notion Badge](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
+![Heroku Badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Vercel Badge](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 <br/>  
 <br/>
-
-
 
 [website]: https://alnmaurofranco.github.io/
 
