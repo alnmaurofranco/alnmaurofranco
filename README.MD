@@ -26,9 +26,13 @@
 </a>
 </p>
 
+
 <h2 align="center" style="font-style: italic;">
-"A única forma de fazer um excelente trabalho é amar o que você faz." - Steve Jobs
+
+"A programação é a arte de criar algo do nada com apenas um computador e uma imaginação fértil." - Bill Gates
+
 </h2>
+
 
 - 🎓 Formado em Análise e Desenvolvimento de Sistema na FATEC Ipiranga.
 - 👨🏼‍💻 Desenvolvedor Fullstack
