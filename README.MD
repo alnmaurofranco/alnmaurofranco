@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-<img src="https://i.imgur.com/79DZtKd.jpg" alt="banner">
+<img src="https://i.imgur.com/RIvTHtf.jpg" alt="banner">
 </p>
 
 <p align="center">
@@ -18,8 +18,8 @@
 <a href="https://twitter.com/aln_maurofranco">
 <img src="https://img.shields.io/badge/ALN__MAUROFRANCO-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/aln_maurofranco/">
-<img src="https://img.shields.io/badge/ALN__MAUROFRANCO-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://www.instagram.com/alnmaurofranco/">
+<img src="https://img.shields.io/badge/ALNMAUROFRANCO-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://www.twitch.tv/allanhps">
 <img src="https://img.shields.io/badge/ALLANHPS-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
@@ -27,26 +27,26 @@
 </p>
 
 <h2 align="center" style="font-style: italic;">
-
-_"Se a nossa matéria-prima é o conhecimento, nós não podemos parar de aprender."_
-
+"A única forma de fazer um excelente trabalho é amar o que você faz." - Steve Jobs
 </h2>
 
-- 👨🏼‍💻 Sou Desenvolvedor Backend
 - 🎓 Formado em Análise e Desenvolvimento de Sistema na FATEC Ipiranga.
-- 📚 Estudando e colocando em pratica: **Microserviços e Arquitetura de Software**
+- 👨🏼‍💻 Desenvolvedor Fullstack
 
----
 
 ## 🛠️ Linguagens e Ferramentas
 
 <p align="left">
-  <a>
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,nestjs,prisma,mongodb,postgresql,mysql,jest,docker,vscode,github,git,heroku" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=vite,react,next,vercel" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,mongodb,postgresql,jest,docker,vscode,github,githubactions,git,heroku" />
 </p>
 
 <p align="left">
 <img align="left" alt="Alanmaurofranco Github stats" src="https://github-readme-stats.vercel.app/api?username=alnmaurofranco&theme=dracula&show_icons=true&hide_border=true" />
+
 <a href="https://app.daily.dev/AlanMFranco" align="center"><img src="https://api.daily.dev/devcards/840a3a52baa349e2b1f895266cecdfe2.png?r=yne" width="260" alt="AlanM Franco's Dev Card" /></a>
+
 </p>
